@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact Us</string>
+    <string name="name">Kabya Chalise</string>
+    <string name="job">Android Developer Extraordinaire</string>
+    <string name="num">+977 9815341019</string>
+    <string name="quote">"\@StayHard</string>
+    <string name="email">kabyachalise123@gmail.com</string>
+
+</resources>
